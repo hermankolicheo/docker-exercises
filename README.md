@@ -1,7 +1,10 @@
 # 01 - Laboratorio Docker
 
 Para este laboratorio practico, lea atentamente las instrucciones.
+
+
 Cree una rama para cada una de las preguntas del laboratorio, en ellas cree una carpeta de nombre “PREGUNTA_N#” donde (#) corresponde al numero correlativo de la pregunta, donde desarrollará el ejercicio.
+
 Una vez finalice el desarrollo en la rama correspondiente, cree y cierre un merge request, fucionando los cambios hacia la rama develop.
 Para cada pregunta, cree un README.md en su carpeta correspondiente con el paso a paso de su solución, (Se utilizará en revisión del laboratorio).
 
