@@ -35,7 +35,8 @@ Envíanos tu repositorio al correo de selección, si no tuviste tiempo de finali
 Documentos de apoyo:
 
 Instalación Docker Ubuntu:   https://docs.docker.com/engine/install/ubuntu/ (Se recomienda utilizar sistema operativo basado en Linux)
-Instalación Docker Mac: https://docs.docker.com/desktop/mac/install/
+Instalación Docker Mac: https://docs.docker.com/desktop/mac/install/ 
+
 Instalación Docker en Windows: https://docs.docker.com/desktop/windows/install/
 Uso de Dockerfiles:  https://docs.docker.com/engine/reference/builder/
 
